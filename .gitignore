@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# AI runtime outputs
+ai/test_images/
+*.log
+
+# Secrets
+.env
+local.properties
+
+# Android
+.gradle/
+build/
+.idea/
+*.iml
+captures/
+
+# OS
+.DS_Store
+Thumbs.db

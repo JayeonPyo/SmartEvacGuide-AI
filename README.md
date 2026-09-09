@@ -1,7 +1,8 @@
-# SmartEvacGuide — AI 기반 재난 발생 건물 대피 경로 안내 서비스
+# SmartEvacGuide - AI 기반 재난 발생 건물 대피 경로 안내 서비스
 
-> 제1회 사물인터넷 플랫폼 활용 개발자 챌린지 (AI x IoT 오픈 플랫폼 챌린지) 출품작
+> 제1회 사물인터넷 플랫폼 활용 개발자 챌린지 (AI x IoT 오픈 플랫폼 챌린지) 출품작 (최우수상 수상)
 > Team **IoT 요정단** · Sejong University SESLAB
+
 
 [English version → README.en.md](README.en.md)
 

@@ -164,7 +164,7 @@ For the Android app, open `mobile-app/` in Android Studio and replace the `API_K
 | Name | Department | Role |
 |---|---|---|
 | **Jayeon Pyo** | Information Security | **Entire AI system** (detection · YOLOv8 crowd analysis · Q-Learning routing · oneM2M integration) |
-| Yejin O | Information Security | Mobile app |
+| Yejin Oh | Information Security | Mobile app |
 | Siwoo Park | Cyber Defense | Hardware · sensors |
 | Minseok Kim | Cyber Defense | Hardware · sensors |
 | Hamin Lee | Computer Engineering | Unity digital twin |

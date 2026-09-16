@@ -38,19 +38,8 @@
 
 ## 시스템 아키텍처
 
-```
-   [ 현장 하드웨어 ]                [ oneM2M 플랫폼 ]              [ 애플리케이션 ]
 
-  Arduino UNO R4 WiFi                                              ┌──────────────┐
-   ├ DHT (온도/습도)  ──┐                                      ┌──▶│  Mobile App  │
-   ├ CO2 센서         ──┤                 tinyIoT (IN-CSE)     │   │  (Android)   │
-   └ 진동 센서        ──┤              ┌────────────────────┐  │   └──────────────┘
-                        ├── HTTP ─────▶│ AE: SmartEvacGuide │──┤
-  Raspberry Pi          │              │  ├ Sensors   (CNT) │  │   ┌──────────────┐
-   ├ Pi Camera          │              │  ├ Result    (CNT) │  └──▶│ Unity        │
-   └ On-Device AI ──────┘              │  └ Detection (CNT) │      │ Digital Twin │
-       (YOLOv8 + Q-Learning)           └────────────────────┘      └──────────────┘
-```
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/f4597d14-aff1-48ba-a80b-444956597f14" />
 
 **데이터 흐름 (2초 주기 폴링)**
 

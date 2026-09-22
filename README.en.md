@@ -6,7 +6,7 @@
 ![RL](https://img.shields.io/badge/Q--Learning-5000%20episodes-7C4DFF)
 ![oneM2M](https://img.shields.io/badge/oneM2M-tinyIoT-0277BD)
 
-> 🏆 **Grand Prize (최우수상), 1st IoT Platform Developer Challenge**
+> **Grand Prize (최우수상), 1st IoT Platform Developer Challenge**
 > Team **IoT 요정단** · Sejong University, SESLAB
 
 [한국어 → README.md](README.md)

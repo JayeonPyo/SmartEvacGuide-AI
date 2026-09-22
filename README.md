@@ -6,7 +6,7 @@
 ![RL](https://img.shields.io/badge/Q--Learning-5000%20episodes-7C4DFF)
 ![oneM2M](https://img.shields.io/badge/oneM2M-tinyIoT-0277BD)
 
-> 🏆 **제1회 사물인터넷 플랫폼 활용 개발자 챌린지 최우수상 수상작**
+> **제1회 사물인터넷 플랫폼 활용 개발자 챌린지 최우수상 수상작**
 > Team **IoT 요정단** · Sejong University SESLAB
 
 [English version → README.en.md](README.en.md)
